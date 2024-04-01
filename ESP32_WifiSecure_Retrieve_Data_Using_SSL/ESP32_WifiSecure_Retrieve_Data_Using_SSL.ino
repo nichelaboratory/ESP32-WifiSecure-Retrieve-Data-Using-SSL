@@ -6,7 +6,7 @@
   2017 - Evandro Copercini - Apache 2.0 License.
 */
 
-//See TBC for a tutorial: https://
+//See this video for a tutorial: https://youtu.be/dAZjWDZDFNo
 //Note: I've modified the original WiFiClientSecure code example so that the website's content is returned as a char array. If you're
 //intending to download something massive then ensure your device has enough memory to handle it!
 //I also modified the client connection to work more reliably with larger content sizes.
